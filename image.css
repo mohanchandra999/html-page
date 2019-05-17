@@ -1,0 +1,28 @@
+.design{
+    border: 2px solid blue;
+    width: 300px;
+    height: 400px;
+}
+.img1{
+    width: 300px;
+    height: 200px;
+}
+.NTR{
+    width: 100px;
+    height: 100px;
+
+    position: relative;
+    border-radius:60%;
+    border: 1px solid black;
+    top: -250px;
+    left: 80px;
+}
+
+
+
+
+.img{
+    width: 300px;
+    height: 200px;
+    margin-top: -4px;
+}

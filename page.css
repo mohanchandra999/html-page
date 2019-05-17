@@ -1,0 +1,11 @@
+div{
+    background-color: aqua;
+}
+h1{
+    background-attachment: none;
+    border-bottom: 80px;
+    color: red;
+}
+.jumbotron text-center{
+    background-image: url("NTR.jpg");
+}
